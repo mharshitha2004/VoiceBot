@@ -4,8 +4,6 @@ A voice bot that answers interview questions the way **I (Mandadi Harshitha Redd
 
 **Live demo:** https://voice-chatbot-two.vercel.app/
 
-Built for the 100x GEN AI Round 1 assessment.
-
 ## Features
 
 - **Voice in, voice out:** speak a question and hear the answer read aloud
